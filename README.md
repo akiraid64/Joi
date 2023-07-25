@@ -1,14 +1,6 @@
 
-# Carter Discord Bot - Python
+# Joi Discord Bot - Python
 
-The Carter Discord Bot is a simple template integration that allows you to easily add AI conversation capabilities to your Discord bot using the Carter API.
-
-## Features
-
-- Seamless integration with the Carter API for AI-driven conversations.
-- Supports Direct Messages for personalized interactions.
-- Customizable command prefix to fit your server's needs.
-- Easy setup and deployment using Nextcord library.
 
 
 ## Installation
@@ -29,11 +21,6 @@ To use this template, follow these steps:
 ```shell
   pip install -r requirements.txt
 ```
-
-4. Obtain a Carter API key:
-    - Sign up to [Carter Labs]("https://controller.carterlabs.ai/")
-    - Create your Agent and go thru the set up process
-    - Generate an API key from the Agent Dashboard
 
 5. Obtain a Discord bot API key:
     - Go to [Discord Developers](https://discord.com/developers/applications/)
@@ -56,5 +43,5 @@ To use this template, follow these steps:
     ```
 ## Author
 
-- [@TheKronis](https://www.github.com/TheKronis)
+- https://github.com/akiraid64
 
